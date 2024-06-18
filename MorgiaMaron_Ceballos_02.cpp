@@ -228,7 +228,7 @@
 	void program_header()
 	{
 	    printf("\n==============================================================================\n");
-	    printf("\n\t\t\t • KITCHENWARE WASHING MACHINE •\n");
+	    printf("\n\t\t\t â€¢ KITCHENWARE WASHING MACHINE â€¢\n");
 	    printf("\n==============================================================================\n");
 	}
 	
